@@ -1,4 +1,4 @@
-\
+
 # Xieron Privacy Policy
 
 Thank you for choosing **Xieron**! This Privacy Policy outlines how we collect, use, store, and protect your data when you use the Xieron Discord bot. By using Xieron, you agree to the practices described in this policy.
