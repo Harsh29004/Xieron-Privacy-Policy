@@ -1,13 +1,13 @@
 
-# Xieron Privacy Policy
+# Astic Privacy Policy
 
-Thank you for choosing **Xieron**! This Privacy Policy outlines how we collect, use, store, and protect your data when you use the Xieron Discord bot. By using Xieron, you agree to the practices described in this policy.
+Thank you for choosing **Astic**! This Privacy Policy outlines how we collect, use, store, and protect your data when you use the Astic Discord bot. By using Astic, you agree to the practices described in this policy.
 
 ---
 
 ## 📊 Data Collection
 
-Xieron is a free-to-use Discord bot that offers powerful features like automod, antispam, anti-nuke, welcome messages, role assignment, and giveaways. To function properly, Xieron collects and stores limited non-personal data:
+Astic is a free-to-use Discord bot that offers powerful features like automod, antispam, anti-nuke, welcome messages, role assignment, and giveaways. To function properly, Astic collects and stores limited non-personal data:
 
 * **Server IDs** – to manage configurations on a per-server basis.
 * **User IDs** – used for automoderation logs, punishments, blacklist tracking, and custom role systems.
@@ -23,7 +23,7 @@ All collected data is securely stored and encrypted using industry-standard encr
 
 We use collected data solely for the following:
 
-* Enabling and configuring Xieron’s core features.
+* Enabling and configuring Astic’s core features.
 * Executing moderation actions (mute, ban, warn, etc.).
 * Improving stability, performance, and user experience.
 * Providing debugging support and bug resolution.
@@ -34,7 +34,7 @@ We use collected data solely for the following:
 
 ## 🧠 Message Monitoring
 
-Xieron monitors messages in real time to detect and respond to:
+Astic monitors messages in real time to detect and respond to:
 
 * Spam, flooding, or repeated content.
 * Blacklisted keywords or banned links.
@@ -55,8 +55,8 @@ Access to sensitive information is controlled and monitored internally.
 
 ## 📦 Data Storage & Retention
 
-* Server data is retained **as long as Xieron is present in the server.**
-* If Xieron is removed, data is retained for **7 days** to support easy re-setup.
+* Server data is retained **as long as Astic is present in the server.**
+* If Astic is removed, data is retained for **7 days** to support easy re-setup.
 * Data may be **permanently deleted** upon request by a verified server owner.
 
 ---
@@ -71,11 +71,11 @@ To request data deletion, please contact us with your **Server ID** and proof of
 
 If you have any questions about this Privacy Policy, or if you need help managing your data, reach out to us via our support server:
 
-👉 [Xieron Support Server](https://discord.gg/xieron)
+👉 [Astic Support Server](https://discord.gg/Astic)
 
 ---
 
-Thank you for trusting **Xieron**. We're committed to respecting your privacy and ensuring a safe, high-performance experience across all Discord communities.
+Thank you for trusting **Astic**. We're committed to respecting your privacy and ensuring a safe, high-performance experience across all Discord communities.
 
 ---
 
